@@ -1,6 +1,3 @@
-% % 微信公众号：KAU的云实验台
-% 付费代码(仅在此购买代码可答疑)：https://mbd.pub/o/author-a2iWlGtpZA==
-% 严禁倒卖，违者必究
 
 function [Convergence_curve , Leader_score, Leader_pos] = WOA(lb,ub,dim,fobj,Popsize,maxgen,model)
 

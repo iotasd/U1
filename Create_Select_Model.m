@@ -1,6 +1,4 @@
-% % 微信公众号：KAU的云实验台
-% 付费代码(唯一购买地址)：https://mbd.pub/o/author-a2iWlGtpZA==
-% 严禁倒卖，违者必究
+
 
 function model=Create_Select_Model(map_select,map_complexity,startPos,goalPos,n)
 

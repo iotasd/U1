@@ -1,6 +1,4 @@
-% % 微信公众号：KAU的云实验台
-% 付费代码(仅在此购买代码可答疑)：https://mbd.pub/o/author-a2iWlGtpZA==
-% 严禁倒卖，违者必究
+
 
 function [IterCurve , gBestFitness ,gBest] = GWO(lb,ub,dim,fobj,Popsize,maxgen,model)
 
